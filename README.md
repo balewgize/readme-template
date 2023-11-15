@@ -1,7 +1,5 @@
 <!--
 *** Thanks for checking out the readme-template.
-*** This template is a minimal version of Best-README-Template,
-*** (https://github.com/othneildrew/Best-README-Template)
 *** Don't forget to give the project a star!
 -->
 
@@ -10,11 +8,11 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Project Title</h3>
+  <h3 align="center">README Template</h3>
   <p align="center">
-    A short one sentence project description goes here.
+    Minimal README template for portfolio projects.
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/balewgize/readme-template">View Demo</a>
   </p>
 </div>
 
@@ -25,35 +23,37 @@
 <!-- Use relative path to reference images you want to use in the README -->
 [![Screenshot](images/example.jpg?raw=true "Project Title")](https://example.com)
 
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this one. The aim is to have a reusable and consistent README template for portfolio projects that will clearly showcase what you have built.
 
-Talk about the project in detail here like what it does, what problems it solves, motivation to build it and so on. Anything you would like to say about the project.
+I would say this template is the minimal version of <a href="https://github.com/othneildrew/Best-README-Template">this one.</a> While I like that template, I believe there are parts not really needed for portfolio projects so I removed them.
+
+Of course, no one template will serve all projects since your needs may be different. Feel free to modify this template to your needs and/or suggest me improvements via forking and issues.
+
+Hope you will find it helpful. Use the `README_TEMPLATE.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features: What main functionalities you implemented in the project? -->
 ### Features
 
-* Feature one
-* Feature two
-* Feature three
-* Feature four
+* Reusable
+* Nicely formatted
+* Easier navigation
+* Screenshots
 
 
 <!-- What tech stack you use to develop the project? -->
 ### Built With
 
-* Tech 1
-* Tech 2
-* Tech 3
-* Tech 4 ...
+* Git
+* GitHub
+* VS Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## Getting Started
-
-Give instructions on setting up the project locally.
 
 To get a local copy up and running follow these example steps.
 
@@ -63,8 +63,7 @@ To get a local copy up and running follow these example steps.
 
 * Git
 * GitHub
-* Prerequisite 3
-* Prerequisite 3
+* VS Code
 
 ### Installation
 
@@ -88,9 +87,6 @@ To get a local copy up and running follow these example steps.
    ```
    git push origin main
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- If you want to include license -->
 ## License 
